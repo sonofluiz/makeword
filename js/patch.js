@@ -42540,8 +42540,7 @@ const voices =
     "zh-yue (Cantonese Chinese, Provisional)"
 ];
 
-//const enPath = "https://sandbox.cables.gl" + op.patch.getFilePath(op.patch.getAssetPath() + "en.json");
-const enPath = op.patch.getFilePath(op.patch.getAssetPath() + "en.json");
+const enPath = "en.json";
 
 const variants =
 [
