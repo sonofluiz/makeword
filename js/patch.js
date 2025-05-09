@@ -41981,7 +41981,7 @@ const voices =
     "zh-yue (Cantonese Chinese, Provisional)"
 ];
 
-const enPath = "../assets/en.json";
+const enPath = "en.json";
 
 const variants =
 [
