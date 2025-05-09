@@ -29877,9 +29877,9 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                     "name": "trigger",
                     "links": [
                         {
-                            "portIn": "render",
+                            "portIn": "Trigger",
                             "portOut": "trigger",
-                            "objIn": "e3946w5fi",
+                            "objIn": "1mmrrs9ic",
                             "objOut": "o0nrth932"
                         }
                     ]
@@ -30110,7 +30110,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                         {
                             "portIn": "Input_0",
                             "portOut": "Next",
-                            "objIn": "cocw9n6jl",
+                            "objIn": "vxr3otkkk",
                             "objOut": "1mmrrs9ic"
                         }
                     ]
@@ -30199,7 +30199,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                         {
                             "portIn": "4ac9zc8zo",
                             "portOut": "Output_0",
-                            "objIn": "jp3cczmqz",
+                            "objIn": "rttd7cou9",
                             "objOut": "cocw9n6jl"
                         }
                     ]
@@ -30212,6 +30212,17 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                             "portIn": "Input_0",
                             "portOut": "Output_1",
                             "objIn": "47cc1e8fc",
+                            "objOut": "cocw9n6jl"
+                        }
+                    ]
+                },
+                {
+                    "name": "Output_2",
+                    "links": [
+                        {
+                            "portIn": "render",
+                            "portOut": "Output_2",
+                            "objIn": "2spo4t96x",
                             "objOut": "cocw9n6jl"
                         }
                     ]
@@ -30237,7 +30248,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                         {
                             "portIn": "zgdzm1396",
                             "portOut": "Trigger_0",
-                            "objIn": "jp3cczmqz",
+                            "objIn": "rttd7cou9",
                             "objOut": "rs9bt9e01"
                         }
                     ]
@@ -30249,7 +30260,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                         {
                             "portIn": "zgdzm1396",
                             "portOut": "Trigger_1",
-                            "objIn": "3nuzy1sb8",
+                            "objIn": "rmb46f1to",
                             "objOut": "rs9bt9e01"
                         }
                     ]
@@ -30261,7 +30272,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                         {
                             "portIn": "zgdzm1396",
                             "portOut": "Trigger_2",
-                            "objIn": "ccvrklllo",
+                            "objIn": "co26ecvrt",
                             "objOut": "rs9bt9e01"
                         }
                     ]
@@ -30272,7 +30283,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                         {
                             "portIn": "zgdzm1396",
                             "portOut": "Trigger_3",
-                            "objIn": "5ogbeq34t",
+                            "objIn": "y07w21pod",
                             "objOut": "rs9bt9e01"
                         }
                     ]
@@ -30283,7 +30294,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                         {
                             "portIn": "zgdzm1396",
                             "portOut": "Trigger_4",
-                            "objIn": "f7ujil4bd",
+                            "objIn": "dia49nr11",
                             "objOut": "rs9bt9e01"
                         }
                     ]
@@ -30295,7 +30306,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                         {
                             "portIn": "zgdzm1396",
                             "portOut": "Trigger_5",
-                            "objIn": "9a74mvip9",
+                            "objIn": "uocx3doao",
                             "objOut": "rs9bt9e01"
                         }
                     ]
@@ -30323,7 +30334,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                         {
                             "portIn": "77ynzu99p",
                             "portOut": "Index 0 string",
-                            "objIn": "jp3cczmqz",
+                            "objIn": "rttd7cou9",
                             "objOut": "12u8rrp3y"
                         }
                     ]
@@ -30334,7 +30345,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                         {
                             "portIn": "77ynzu99p",
                             "portOut": "Index 1 string",
-                            "objIn": "3nuzy1sb8",
+                            "objIn": "rmb46f1to",
                             "objOut": "12u8rrp3y"
                         }
                     ]
@@ -30345,7 +30356,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                         {
                             "portIn": "77ynzu99p",
                             "portOut": "Index 2 string",
-                            "objIn": "ccvrklllo",
+                            "objIn": "co26ecvrt",
                             "objOut": "12u8rrp3y"
                         }
                     ]
@@ -30356,7 +30367,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                         {
                             "portIn": "77ynzu99p",
                             "portOut": "Index 3 string",
-                            "objIn": "5ogbeq34t",
+                            "objIn": "y07w21pod",
                             "objOut": "12u8rrp3y"
                         }
                     ]
@@ -30367,7 +30378,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                         {
                             "portIn": "77ynzu99p",
                             "portOut": "Index 4 string",
-                            "objIn": "f7ujil4bd",
+                            "objIn": "dia49nr11",
                             "objOut": "12u8rrp3y"
                         }
                     ]
@@ -30378,7 +30389,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                         {
                             "portIn": "77ynzu99p",
                             "portOut": "Index 5 string",
-                            "objIn": "9a74mvip9",
+                            "objIn": "uocx3doao",
                             "objOut": "12u8rrp3y"
                         }
                     ]
@@ -30504,9 +30515,9 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                     "name": "trigger",
                     "links": [
                         {
-                            "portIn": "Trigger",
+                            "portIn": "Input_0",
                             "portOut": "trigger",
-                            "objIn": "1mmrrs9ic",
+                            "objIn": "cocw9n6jl",
                             "objOut": "e3946w5fi"
                         }
                     ]
@@ -32048,7 +32059,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                 },
                 {
                     "name": "W",
-                    "value": 0.5110145443618624
+                    "value": 0.37626144929861827
                 }
             ],
             "objName": "Ops.Math.RandomNumbers_v3"
@@ -32194,7 +32205,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                 },
                 {
                     "name": "W",
-                    "value": 0.4220290887237249
+                    "value": 0.15252289859723653
                 }
             ],
             "objName": "Ops.Math.RandomNumbers_v3"
@@ -32507,7 +32518,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                 },
                 {
                     "name": "Last Value",
-                    "value": 1
+                    "value": "0"
                 }
             ],
             "objName": "Ops.Number.SwitchNumberOnTrigger"
@@ -32530,7 +32541,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                 },
                 {
                     "name": "Variants",
-                    "value": "m2"
+                    "value": "f1"
                 },
                 {
                     "name": "Line-break length",
@@ -32583,37 +32594,37 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                         {
                             "portIn": "cdavz1kxu",
                             "portOut": "Speaking",
-                            "objIn": "jp3cczmqz",
+                            "objIn": "rttd7cou9",
                             "objOut": "ynum5sd9k"
                         },
                         {
                             "portIn": "cdavz1kxu",
                             "portOut": "Speaking",
-                            "objIn": "3nuzy1sb8",
+                            "objIn": "rmb46f1to",
                             "objOut": "ynum5sd9k"
                         },
                         {
                             "portIn": "cdavz1kxu",
                             "portOut": "Speaking",
-                            "objIn": "ccvrklllo",
+                            "objIn": "co26ecvrt",
                             "objOut": "ynum5sd9k"
                         },
                         {
                             "portIn": "cdavz1kxu",
                             "portOut": "Speaking",
-                            "objIn": "5ogbeq34t",
+                            "objIn": "y07w21pod",
                             "objOut": "ynum5sd9k"
                         },
                         {
                             "portIn": "cdavz1kxu",
                             "portOut": "Speaking",
-                            "objIn": "f7ujil4bd",
+                            "objIn": "dia49nr11",
                             "objOut": "ynum5sd9k"
                         },
                         {
                             "portIn": "cdavz1kxu",
                             "portOut": "Speaking",
-                            "objIn": "9a74mvip9",
+                            "objIn": "uocx3doao",
                             "objOut": "ynum5sd9k"
                         }
                     ]
@@ -32624,613 +32635,6 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                 }
             ],
             "objName": "Ops.Patch.PhORckJ.MeSpeak"
-        },
-        {
-            "id": "jp3cczmqz",
-            "uiAttribs": {},
-            "storage": {
-                "blueprintVer": 2,
-                "subPatchVer": 2
-            },
-            "portsIn": [
-                {
-                    "name": "4ac9zc8zo",
-                    "title": "Execute"
-                },
-                {
-                    "name": "sfpeahgy9",
-                    "value": 0,
-                    "title": "result"
-                },
-                {
-                    "name": "zgdzm1396",
-                    "title": "Trigger"
-                },
-                {
-                    "name": "77ynzu99p",
-                    "title": "Text"
-                },
-                {
-                    "name": "cdavz1kxu",
-                    "title": "Value"
-                },
-                {
-                    "name": "patchId",
-                    "value": "bp2sub_jp3cczmqz"
-                }
-            ],
-            "portsOut": [
-                {
-                    "name": "kg5qtugsw",
-                    "title": "Execute",
-                    "links": [
-                        {
-                            "portIn": "4ac9zc8zo",
-                            "portOut": "kg5qtugsw",
-                            "objIn": "3nuzy1sb8",
-                            "objOut": "jp3cczmqz"
-                        }
-                    ]
-                },
-                {
-                    "name": "6midlo8lx",
-                    "title": "result",
-                    "links": [
-                        {
-                            "portIn": "sfpeahgy9",
-                            "portOut": "6midlo8lx",
-                            "objIn": "3nuzy1sb8",
-                            "objOut": "jp3cczmqz"
-                        }
-                    ]
-                },
-                {
-                    "name": "wahl89i9c",
-                    "title": "Result",
-                    "links": [
-                        {
-                            "portIn": "Strings_0",
-                            "portOut": "wahl89i9c",
-                            "objIn": "wlf2upvzp",
-                            "objOut": "jp3cczmqz"
-                        }
-                    ]
-                },
-                {
-                    "name": "we8ds0m13",
-                    "title": "Out Value",
-                    "links": [
-                        {
-                            "portIn": "value",
-                            "portOut": "we8ds0m13",
-                            "objIn": "46ivur84j",
-                            "objOut": "jp3cczmqz"
-                        }
-                    ]
-                },
-                {
-                    "name": "epjdyyi1u",
-                    "title": "Left Click",
-                    "links": [
-                        {
-                            "portIn": "Execute",
-                            "portOut": "epjdyyi1u",
-                            "objIn": "0ei62y5z7",
-                            "objOut": "jp3cczmqz"
-                        },
-                        {
-                            "portIn": "Trigger 0",
-                            "portOut": "epjdyyi1u",
-                            "objIn": "4w3bb9c5x",
-                            "objOut": "jp3cczmqz"
-                        }
-                    ]
-                }
-            ],
-            "objName": "Ops.Patch.PhORckJ.WordBubble"
-        },
-        {
-            "id": "3nuzy1sb8",
-            "uiAttribs": {},
-            "storage": {
-                "blueprintVer": 2,
-                "subPatchVer": 2
-            },
-            "portsIn": [
-                {
-                    "name": "4ac9zc8zo",
-                    "title": "Execute"
-                },
-                {
-                    "name": "sfpeahgy9",
-                    "title": "result"
-                },
-                {
-                    "name": "zgdzm1396",
-                    "title": "Trigger"
-                },
-                {
-                    "name": "77ynzu99p",
-                    "title": "Text"
-                },
-                {
-                    "name": "cdavz1kxu",
-                    "title": "Value"
-                },
-                {
-                    "name": "patchId",
-                    "value": "bp2sub_3nuzy1sb8"
-                }
-            ],
-            "portsOut": [
-                {
-                    "name": "kg5qtugsw",
-                    "title": "Execute",
-                    "links": [
-                        {
-                            "portIn": "4ac9zc8zo",
-                            "portOut": "kg5qtugsw",
-                            "objIn": "ccvrklllo",
-                            "objOut": "3nuzy1sb8"
-                        }
-                    ]
-                },
-                {
-                    "name": "6midlo8lx",
-                    "title": "result",
-                    "links": [
-                        {
-                            "portIn": "sfpeahgy9",
-                            "portOut": "6midlo8lx",
-                            "objIn": "ccvrklllo",
-                            "objOut": "3nuzy1sb8"
-                        }
-                    ]
-                },
-                {
-                    "name": "wahl89i9c",
-                    "title": "Result",
-                    "links": [
-                        {
-                            "portIn": "Strings_1",
-                            "portOut": "wahl89i9c",
-                            "objIn": "wlf2upvzp",
-                            "objOut": "3nuzy1sb8"
-                        }
-                    ]
-                },
-                {
-                    "name": "we8ds0m13",
-                    "title": "Out Value",
-                    "links": [
-                        {
-                            "portIn": "value",
-                            "portOut": "we8ds0m13",
-                            "objIn": "46ivur84j",
-                            "objOut": "3nuzy1sb8"
-                        }
-                    ]
-                },
-                {
-                    "name": "epjdyyi1u",
-                    "title": "Left Click",
-                    "links": [
-                        {
-                            "portIn": "Execute",
-                            "portOut": "epjdyyi1u",
-                            "objIn": "0ei62y5z7",
-                            "objOut": "3nuzy1sb8"
-                        },
-                        {
-                            "portIn": "Trigger 1",
-                            "portOut": "epjdyyi1u",
-                            "objIn": "4w3bb9c5x",
-                            "objOut": "3nuzy1sb8"
-                        }
-                    ]
-                }
-            ],
-            "objName": "Ops.Patch.PhORckJ.WordBubble"
-        },
-        {
-            "id": "ccvrklllo",
-            "uiAttribs": {},
-            "storage": {
-                "blueprintVer": 2,
-                "subPatchVer": 2
-            },
-            "portsIn": [
-                {
-                    "name": "4ac9zc8zo",
-                    "title": "Execute"
-                },
-                {
-                    "name": "sfpeahgy9",
-                    "title": "result"
-                },
-                {
-                    "name": "zgdzm1396",
-                    "title": "Trigger"
-                },
-                {
-                    "name": "77ynzu99p",
-                    "title": "Text"
-                },
-                {
-                    "name": "cdavz1kxu",
-                    "title": "Value"
-                },
-                {
-                    "name": "patchId",
-                    "value": "bp2sub_ccvrklllo"
-                }
-            ],
-            "portsOut": [
-                {
-                    "name": "kg5qtugsw",
-                    "title": "Execute",
-                    "links": [
-                        {
-                            "portIn": "4ac9zc8zo",
-                            "portOut": "kg5qtugsw",
-                            "objIn": "5ogbeq34t",
-                            "objOut": "ccvrklllo"
-                        }
-                    ]
-                },
-                {
-                    "name": "6midlo8lx",
-                    "title": "result",
-                    "links": [
-                        {
-                            "portIn": "sfpeahgy9",
-                            "portOut": "6midlo8lx",
-                            "objIn": "5ogbeq34t",
-                            "objOut": "ccvrklllo"
-                        }
-                    ]
-                },
-                {
-                    "name": "wahl89i9c",
-                    "title": "Result",
-                    "links": [
-                        {
-                            "portIn": "Strings_2",
-                            "portOut": "wahl89i9c",
-                            "objIn": "wlf2upvzp",
-                            "objOut": "ccvrklllo"
-                        }
-                    ]
-                },
-                {
-                    "name": "we8ds0m13",
-                    "title": "Out Value",
-                    "links": [
-                        {
-                            "portIn": "value",
-                            "portOut": "we8ds0m13",
-                            "objIn": "46ivur84j",
-                            "objOut": "ccvrklllo"
-                        }
-                    ]
-                },
-                {
-                    "name": "epjdyyi1u",
-                    "title": "Left Click",
-                    "links": [
-                        {
-                            "portIn": "Execute",
-                            "portOut": "epjdyyi1u",
-                            "objIn": "0ei62y5z7",
-                            "objOut": "ccvrklllo"
-                        },
-                        {
-                            "portIn": "Trigger 2",
-                            "portOut": "epjdyyi1u",
-                            "objIn": "4w3bb9c5x",
-                            "objOut": "ccvrklllo"
-                        }
-                    ]
-                }
-            ],
-            "objName": "Ops.Patch.PhORckJ.WordBubble"
-        },
-        {
-            "id": "5ogbeq34t",
-            "uiAttribs": {},
-            "storage": {
-                "blueprintVer": 2,
-                "subPatchVer": 2
-            },
-            "portsIn": [
-                {
-                    "name": "4ac9zc8zo",
-                    "title": "Execute"
-                },
-                {
-                    "name": "sfpeahgy9",
-                    "title": "result"
-                },
-                {
-                    "name": "zgdzm1396",
-                    "title": "Trigger"
-                },
-                {
-                    "name": "77ynzu99p",
-                    "title": "Text"
-                },
-                {
-                    "name": "cdavz1kxu",
-                    "title": "Value"
-                },
-                {
-                    "name": "patchId",
-                    "value": "bp2sub_5ogbeq34t"
-                }
-            ],
-            "portsOut": [
-                {
-                    "name": "kg5qtugsw",
-                    "title": "Execute",
-                    "links": [
-                        {
-                            "portIn": "4ac9zc8zo",
-                            "portOut": "kg5qtugsw",
-                            "objIn": "f7ujil4bd",
-                            "objOut": "5ogbeq34t"
-                        }
-                    ]
-                },
-                {
-                    "name": "6midlo8lx",
-                    "title": "result",
-                    "links": [
-                        {
-                            "portIn": "sfpeahgy9",
-                            "portOut": "6midlo8lx",
-                            "objIn": "f7ujil4bd",
-                            "objOut": "5ogbeq34t"
-                        }
-                    ]
-                },
-                {
-                    "name": "wahl89i9c",
-                    "title": "Result",
-                    "links": [
-                        {
-                            "portIn": "Strings_3",
-                            "portOut": "wahl89i9c",
-                            "objIn": "wlf2upvzp",
-                            "objOut": "5ogbeq34t"
-                        }
-                    ]
-                },
-                {
-                    "name": "we8ds0m13",
-                    "title": "Out Value",
-                    "links": [
-                        {
-                            "portIn": "value",
-                            "portOut": "we8ds0m13",
-                            "objIn": "46ivur84j",
-                            "objOut": "5ogbeq34t"
-                        }
-                    ]
-                },
-                {
-                    "name": "epjdyyi1u",
-                    "title": "Left Click",
-                    "links": [
-                        {
-                            "portIn": "Execute",
-                            "portOut": "epjdyyi1u",
-                            "objIn": "0ei62y5z7",
-                            "objOut": "5ogbeq34t"
-                        },
-                        {
-                            "portIn": "Trigger 3",
-                            "portOut": "epjdyyi1u",
-                            "objIn": "4w3bb9c5x",
-                            "objOut": "5ogbeq34t"
-                        }
-                    ]
-                }
-            ],
-            "objName": "Ops.Patch.PhORckJ.WordBubble"
-        },
-        {
-            "id": "f7ujil4bd",
-            "uiAttribs": {},
-            "storage": {
-                "blueprintVer": 2,
-                "subPatchVer": 2
-            },
-            "portsIn": [
-                {
-                    "name": "4ac9zc8zo",
-                    "title": "Execute"
-                },
-                {
-                    "name": "sfpeahgy9",
-                    "title": "result"
-                },
-                {
-                    "name": "zgdzm1396",
-                    "title": "Trigger"
-                },
-                {
-                    "name": "77ynzu99p",
-                    "title": "Text"
-                },
-                {
-                    "name": "cdavz1kxu",
-                    "title": "Value"
-                },
-                {
-                    "name": "patchId",
-                    "value": "bp2sub_f7ujil4bd"
-                }
-            ],
-            "portsOut": [
-                {
-                    "name": "kg5qtugsw",
-                    "title": "Execute",
-                    "links": [
-                        {
-                            "portIn": "4ac9zc8zo",
-                            "portOut": "kg5qtugsw",
-                            "objIn": "9a74mvip9",
-                            "objOut": "f7ujil4bd"
-                        }
-                    ]
-                },
-                {
-                    "name": "6midlo8lx",
-                    "title": "result",
-                    "links": [
-                        {
-                            "portIn": "sfpeahgy9",
-                            "portOut": "6midlo8lx",
-                            "objIn": "9a74mvip9",
-                            "objOut": "f7ujil4bd"
-                        }
-                    ]
-                },
-                {
-                    "name": "wahl89i9c",
-                    "title": "Result",
-                    "links": [
-                        {
-                            "portIn": "Strings_4",
-                            "portOut": "wahl89i9c",
-                            "objIn": "wlf2upvzp",
-                            "objOut": "f7ujil4bd"
-                        }
-                    ]
-                },
-                {
-                    "name": "we8ds0m13",
-                    "title": "Out Value",
-                    "links": [
-                        {
-                            "portIn": "value",
-                            "portOut": "we8ds0m13",
-                            "objIn": "46ivur84j",
-                            "objOut": "f7ujil4bd"
-                        }
-                    ]
-                },
-                {
-                    "name": "epjdyyi1u",
-                    "title": "Left Click",
-                    "links": [
-                        {
-                            "portIn": "Execute",
-                            "portOut": "epjdyyi1u",
-                            "objIn": "0ei62y5z7",
-                            "objOut": "f7ujil4bd"
-                        },
-                        {
-                            "portIn": "Trigger 4",
-                            "portOut": "epjdyyi1u",
-                            "objIn": "4w3bb9c5x",
-                            "objOut": "f7ujil4bd"
-                        }
-                    ]
-                }
-            ],
-            "objName": "Ops.Patch.PhORckJ.WordBubble"
-        },
-        {
-            "id": "9a74mvip9",
-            "uiAttribs": {},
-            "storage": {
-                "blueprintVer": 2,
-                "subPatchVer": 2
-            },
-            "portsIn": [
-                {
-                    "name": "4ac9zc8zo",
-                    "title": "Execute"
-                },
-                {
-                    "name": "sfpeahgy9",
-                    "title": "result"
-                },
-                {
-                    "name": "zgdzm1396",
-                    "title": "Trigger"
-                },
-                {
-                    "name": "77ynzu99p",
-                    "title": "Text"
-                },
-                {
-                    "name": "cdavz1kxu",
-                    "title": "Value"
-                },
-                {
-                    "name": "patchId",
-                    "value": "bp2sub_9a74mvip9"
-                }
-            ],
-            "portsOut": [
-                {
-                    "name": "6midlo8lx",
-                    "title": "result",
-                    "links": [
-                        {
-                            "portIn": "value",
-                            "portOut": "6midlo8lx",
-                            "objIn": "4bypyc9jz",
-                            "objOut": "9a74mvip9"
-                        }
-                    ]
-                },
-                {
-                    "name": "wahl89i9c",
-                    "title": "Result",
-                    "links": [
-                        {
-                            "portIn": "Strings_5",
-                            "portOut": "wahl89i9c",
-                            "objIn": "wlf2upvzp",
-                            "objOut": "9a74mvip9"
-                        }
-                    ]
-                },
-                {
-                    "name": "we8ds0m13",
-                    "title": "Out Value",
-                    "links": [
-                        {
-                            "portIn": "value",
-                            "portOut": "we8ds0m13",
-                            "objIn": "46ivur84j",
-                            "objOut": "9a74mvip9"
-                        }
-                    ]
-                },
-                {
-                    "name": "epjdyyi1u",
-                    "title": "Left Click",
-                    "links": [
-                        {
-                            "portIn": "Execute",
-                            "portOut": "epjdyyi1u",
-                            "objIn": "0ei62y5z7",
-                            "objOut": "9a74mvip9"
-                        },
-                        {
-                            "portIn": "Trigger 5",
-                            "portOut": "epjdyyi1u",
-                            "objIn": "4w3bb9c5x",
-                            "objOut": "9a74mvip9"
-                        }
-                    ]
-                }
-            ],
-            "objName": "Ops.Patch.PhORckJ.WordBubble"
         },
         {
             "id": "9oo5ss5cu",
@@ -33372,12 +32776,1166 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                 }
             ],
             "objName": "Ops.Number.DelayNumberSimple"
+        },
+        {
+            "id": "rttd7cou9",
+            "uiAttribs": {},
+            "storage": {
+                "blueprintVer": 2,
+                "subPatchVer": 2
+            },
+            "portsIn": [
+                {
+                    "name": "4ac9zc8zo",
+                    "title": "Execute"
+                },
+                {
+                    "name": "sfpeahgy9",
+                    "value": 0,
+                    "title": "result"
+                },
+                {
+                    "name": "zgdzm1396",
+                    "title": "Trigger"
+                },
+                {
+                    "name": "77ynzu99p",
+                    "title": "Text"
+                },
+                {
+                    "name": "cdavz1kxu",
+                    "title": "Value"
+                },
+                {
+                    "name": "patchId",
+                    "value": "bp2sub_rttd7cou9"
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "kg5qtugsw",
+                    "title": "Execute",
+                    "links": [
+                        {
+                            "portIn": "4ac9zc8zo",
+                            "portOut": "kg5qtugsw",
+                            "objIn": "rmb46f1to",
+                            "objOut": "rttd7cou9"
+                        }
+                    ]
+                },
+                {
+                    "name": "6midlo8lx",
+                    "title": "result",
+                    "links": [
+                        {
+                            "portIn": "sfpeahgy9",
+                            "portOut": "6midlo8lx",
+                            "objIn": "rmb46f1to",
+                            "objOut": "rttd7cou9"
+                        }
+                    ]
+                },
+                {
+                    "name": "wahl89i9c",
+                    "title": "Result",
+                    "links": [
+                        {
+                            "portIn": "Strings_0",
+                            "portOut": "wahl89i9c",
+                            "objIn": "wlf2upvzp",
+                            "objOut": "rttd7cou9"
+                        }
+                    ]
+                },
+                {
+                    "name": "we8ds0m13",
+                    "title": "Out Value",
+                    "links": [
+                        {
+                            "portIn": "value",
+                            "portOut": "we8ds0m13",
+                            "objIn": "46ivur84j",
+                            "objOut": "rttd7cou9"
+                        }
+                    ]
+                },
+                {
+                    "name": "epjdyyi1u",
+                    "title": "Left Click",
+                    "links": [
+                        {
+                            "portIn": "Execute",
+                            "portOut": "epjdyyi1u",
+                            "objIn": "0ei62y5z7",
+                            "objOut": "rttd7cou9"
+                        },
+                        {
+                            "portIn": "Trigger 0",
+                            "portOut": "epjdyyi1u",
+                            "objIn": "4w3bb9c5x",
+                            "objOut": "rttd7cou9"
+                        }
+                    ]
+                }
+            ],
+            "objName": "Ops.Patch.PhORckJ.WordBubble"
+        },
+        {
+            "id": "rmb46f1to",
+            "uiAttribs": {},
+            "storage": {
+                "blueprintVer": 2,
+                "subPatchVer": 2
+            },
+            "portsIn": [
+                {
+                    "name": "4ac9zc8zo",
+                    "title": "Execute"
+                },
+                {
+                    "name": "sfpeahgy9",
+                    "title": "result"
+                },
+                {
+                    "name": "zgdzm1396",
+                    "title": "Trigger"
+                },
+                {
+                    "name": "77ynzu99p",
+                    "title": "Text"
+                },
+                {
+                    "name": "cdavz1kxu",
+                    "title": "Value"
+                },
+                {
+                    "name": "patchId",
+                    "value": "bp2sub_rmb46f1to"
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "kg5qtugsw",
+                    "title": "Execute",
+                    "links": [
+                        {
+                            "portIn": "4ac9zc8zo",
+                            "portOut": "kg5qtugsw",
+                            "objIn": "co26ecvrt",
+                            "objOut": "rmb46f1to"
+                        }
+                    ]
+                },
+                {
+                    "name": "6midlo8lx",
+                    "title": "result",
+                    "links": [
+                        {
+                            "portIn": "sfpeahgy9",
+                            "portOut": "6midlo8lx",
+                            "objIn": "co26ecvrt",
+                            "objOut": "rmb46f1to"
+                        }
+                    ]
+                },
+                {
+                    "name": "wahl89i9c",
+                    "title": "Result",
+                    "links": [
+                        {
+                            "portIn": "Strings_1",
+                            "portOut": "wahl89i9c",
+                            "objIn": "wlf2upvzp",
+                            "objOut": "rmb46f1to"
+                        }
+                    ]
+                },
+                {
+                    "name": "we8ds0m13",
+                    "title": "Out Value",
+                    "links": [
+                        {
+                            "portIn": "value",
+                            "portOut": "we8ds0m13",
+                            "objIn": "46ivur84j",
+                            "objOut": "rmb46f1to"
+                        }
+                    ]
+                },
+                {
+                    "name": "epjdyyi1u",
+                    "title": "Left Click",
+                    "links": [
+                        {
+                            "portIn": "Execute",
+                            "portOut": "epjdyyi1u",
+                            "objIn": "0ei62y5z7",
+                            "objOut": "rmb46f1to"
+                        },
+                        {
+                            "portIn": "Trigger 1",
+                            "portOut": "epjdyyi1u",
+                            "objIn": "4w3bb9c5x",
+                            "objOut": "rmb46f1to"
+                        }
+                    ]
+                }
+            ],
+            "objName": "Ops.Patch.PhORckJ.WordBubble"
+        },
+        {
+            "id": "co26ecvrt",
+            "uiAttribs": {},
+            "storage": {
+                "blueprintVer": 2,
+                "subPatchVer": 2
+            },
+            "portsIn": [
+                {
+                    "name": "4ac9zc8zo",
+                    "title": "Execute"
+                },
+                {
+                    "name": "sfpeahgy9",
+                    "title": "result"
+                },
+                {
+                    "name": "zgdzm1396",
+                    "title": "Trigger"
+                },
+                {
+                    "name": "77ynzu99p",
+                    "title": "Text"
+                },
+                {
+                    "name": "cdavz1kxu",
+                    "title": "Value"
+                },
+                {
+                    "name": "patchId",
+                    "value": "bp2sub_co26ecvrt"
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "kg5qtugsw",
+                    "title": "Execute",
+                    "links": [
+                        {
+                            "portIn": "4ac9zc8zo",
+                            "portOut": "kg5qtugsw",
+                            "objIn": "y07w21pod",
+                            "objOut": "co26ecvrt"
+                        }
+                    ]
+                },
+                {
+                    "name": "6midlo8lx",
+                    "title": "result",
+                    "links": [
+                        {
+                            "portIn": "sfpeahgy9",
+                            "portOut": "6midlo8lx",
+                            "objIn": "y07w21pod",
+                            "objOut": "co26ecvrt"
+                        }
+                    ]
+                },
+                {
+                    "name": "wahl89i9c",
+                    "title": "Result",
+                    "links": [
+                        {
+                            "portIn": "Strings_2",
+                            "portOut": "wahl89i9c",
+                            "objIn": "wlf2upvzp",
+                            "objOut": "co26ecvrt"
+                        }
+                    ]
+                },
+                {
+                    "name": "we8ds0m13",
+                    "title": "Out Value",
+                    "links": [
+                        {
+                            "portIn": "value",
+                            "portOut": "we8ds0m13",
+                            "objIn": "46ivur84j",
+                            "objOut": "co26ecvrt"
+                        }
+                    ]
+                },
+                {
+                    "name": "epjdyyi1u",
+                    "title": "Left Click",
+                    "links": [
+                        {
+                            "portIn": "Execute",
+                            "portOut": "epjdyyi1u",
+                            "objIn": "0ei62y5z7",
+                            "objOut": "co26ecvrt"
+                        },
+                        {
+                            "portIn": "Trigger 2",
+                            "portOut": "epjdyyi1u",
+                            "objIn": "4w3bb9c5x",
+                            "objOut": "co26ecvrt"
+                        }
+                    ]
+                }
+            ],
+            "objName": "Ops.Patch.PhORckJ.WordBubble"
+        },
+        {
+            "id": "y07w21pod",
+            "uiAttribs": {},
+            "storage": {
+                "blueprintVer": 2,
+                "subPatchVer": 2
+            },
+            "portsIn": [
+                {
+                    "name": "4ac9zc8zo",
+                    "title": "Execute"
+                },
+                {
+                    "name": "sfpeahgy9",
+                    "title": "result"
+                },
+                {
+                    "name": "zgdzm1396",
+                    "title": "Trigger"
+                },
+                {
+                    "name": "77ynzu99p",
+                    "title": "Text"
+                },
+                {
+                    "name": "cdavz1kxu",
+                    "title": "Value"
+                },
+                {
+                    "name": "patchId",
+                    "value": "bp2sub_y07w21pod"
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "kg5qtugsw",
+                    "title": "Execute",
+                    "links": [
+                        {
+                            "portIn": "4ac9zc8zo",
+                            "portOut": "kg5qtugsw",
+                            "objIn": "dia49nr11",
+                            "objOut": "y07w21pod"
+                        }
+                    ]
+                },
+                {
+                    "name": "6midlo8lx",
+                    "title": "result",
+                    "links": [
+                        {
+                            "portIn": "sfpeahgy9",
+                            "portOut": "6midlo8lx",
+                            "objIn": "dia49nr11",
+                            "objOut": "y07w21pod"
+                        }
+                    ]
+                },
+                {
+                    "name": "wahl89i9c",
+                    "title": "Result",
+                    "links": [
+                        {
+                            "portIn": "Strings_3",
+                            "portOut": "wahl89i9c",
+                            "objIn": "wlf2upvzp",
+                            "objOut": "y07w21pod"
+                        }
+                    ]
+                },
+                {
+                    "name": "we8ds0m13",
+                    "title": "Out Value",
+                    "links": [
+                        {
+                            "portIn": "value",
+                            "portOut": "we8ds0m13",
+                            "objIn": "46ivur84j",
+                            "objOut": "y07w21pod"
+                        }
+                    ]
+                },
+                {
+                    "name": "epjdyyi1u",
+                    "title": "Left Click",
+                    "links": [
+                        {
+                            "portIn": "Execute",
+                            "portOut": "epjdyyi1u",
+                            "objIn": "0ei62y5z7",
+                            "objOut": "y07w21pod"
+                        },
+                        {
+                            "portIn": "Trigger 3",
+                            "portOut": "epjdyyi1u",
+                            "objIn": "4w3bb9c5x",
+                            "objOut": "y07w21pod"
+                        }
+                    ]
+                }
+            ],
+            "objName": "Ops.Patch.PhORckJ.WordBubble"
+        },
+        {
+            "id": "dia49nr11",
+            "uiAttribs": {},
+            "storage": {
+                "blueprintVer": 2,
+                "subPatchVer": 2
+            },
+            "portsIn": [
+                {
+                    "name": "4ac9zc8zo",
+                    "title": "Execute"
+                },
+                {
+                    "name": "sfpeahgy9",
+                    "title": "result"
+                },
+                {
+                    "name": "zgdzm1396",
+                    "title": "Trigger"
+                },
+                {
+                    "name": "77ynzu99p",
+                    "title": "Text"
+                },
+                {
+                    "name": "cdavz1kxu",
+                    "title": "Value"
+                },
+                {
+                    "name": "patchId",
+                    "value": "bp2sub_dia49nr11"
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "kg5qtugsw",
+                    "title": "Execute",
+                    "links": [
+                        {
+                            "portIn": "4ac9zc8zo",
+                            "portOut": "kg5qtugsw",
+                            "objIn": "uocx3doao",
+                            "objOut": "dia49nr11"
+                        }
+                    ]
+                },
+                {
+                    "name": "6midlo8lx",
+                    "title": "result",
+                    "links": [
+                        {
+                            "portIn": "sfpeahgy9",
+                            "portOut": "6midlo8lx",
+                            "objIn": "uocx3doao",
+                            "objOut": "dia49nr11"
+                        }
+                    ]
+                },
+                {
+                    "name": "wahl89i9c",
+                    "title": "Result",
+                    "links": [
+                        {
+                            "portIn": "Strings_4",
+                            "portOut": "wahl89i9c",
+                            "objIn": "wlf2upvzp",
+                            "objOut": "dia49nr11"
+                        }
+                    ]
+                },
+                {
+                    "name": "we8ds0m13",
+                    "title": "Out Value",
+                    "links": [
+                        {
+                            "portIn": "value",
+                            "portOut": "we8ds0m13",
+                            "objIn": "46ivur84j",
+                            "objOut": "dia49nr11"
+                        }
+                    ]
+                },
+                {
+                    "name": "epjdyyi1u",
+                    "title": "Left Click",
+                    "links": [
+                        {
+                            "portIn": "Execute",
+                            "portOut": "epjdyyi1u",
+                            "objIn": "0ei62y5z7",
+                            "objOut": "dia49nr11"
+                        },
+                        {
+                            "portIn": "Trigger 4",
+                            "portOut": "epjdyyi1u",
+                            "objIn": "4w3bb9c5x",
+                            "objOut": "dia49nr11"
+                        }
+                    ]
+                }
+            ],
+            "objName": "Ops.Patch.PhORckJ.WordBubble"
+        },
+        {
+            "id": "uocx3doao",
+            "uiAttribs": {},
+            "storage": {
+                "blueprintVer": 2,
+                "subPatchVer": 2
+            },
+            "portsIn": [
+                {
+                    "name": "4ac9zc8zo",
+                    "title": "Execute"
+                },
+                {
+                    "name": "sfpeahgy9",
+                    "title": "result"
+                },
+                {
+                    "name": "zgdzm1396",
+                    "title": "Trigger"
+                },
+                {
+                    "name": "77ynzu99p",
+                    "title": "Text"
+                },
+                {
+                    "name": "cdavz1kxu",
+                    "title": "Value"
+                },
+                {
+                    "name": "patchId",
+                    "value": "bp2sub_uocx3doao"
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "6midlo8lx",
+                    "title": "result",
+                    "links": [
+                        {
+                            "portIn": "value",
+                            "portOut": "6midlo8lx",
+                            "objIn": "4bypyc9jz",
+                            "objOut": "uocx3doao"
+                        }
+                    ]
+                },
+                {
+                    "name": "wahl89i9c",
+                    "title": "Result",
+                    "links": [
+                        {
+                            "portIn": "Strings_5",
+                            "portOut": "wahl89i9c",
+                            "objIn": "wlf2upvzp",
+                            "objOut": "uocx3doao"
+                        }
+                    ]
+                },
+                {
+                    "name": "we8ds0m13",
+                    "title": "Out Value",
+                    "links": [
+                        {
+                            "portIn": "value",
+                            "portOut": "we8ds0m13",
+                            "objIn": "46ivur84j",
+                            "objOut": "uocx3doao"
+                        }
+                    ]
+                },
+                {
+                    "name": "epjdyyi1u",
+                    "title": "Left Click",
+                    "links": [
+                        {
+                            "portIn": "Execute",
+                            "portOut": "epjdyyi1u",
+                            "objIn": "0ei62y5z7",
+                            "objOut": "uocx3doao"
+                        },
+                        {
+                            "portIn": "Trigger 5",
+                            "portOut": "epjdyyi1u",
+                            "objIn": "4w3bb9c5x",
+                            "objOut": "uocx3doao"
+                        }
+                    ]
+                }
+            ],
+            "objName": "Ops.Patch.PhORckJ.WordBubble"
+        },
+        {
+            "id": "f598d6rct",
+            "uiAttribs": {},
+            "portsOut": [
+                {
+                    "name": "Font Loaded",
+                    "links": [
+                        {
+                            "portIn": "exe",
+                            "portOut": "Font Loaded",
+                            "objIn": "wjevfffko",
+                            "objOut": "f598d6rct"
+                        }
+                    ]
+                }
+            ],
+            "objName": "Ops.Html.FontsLoaded"
+        },
+        {
+            "id": "ca85vt4vm",
+            "uiAttribs": {},
+            "portsIn": [
+                {
+                    "name": "Style index",
+                    "value": 1
+                },
+                {
+                    "name": "Style",
+                    "value": "Ring"
+                }
+            ],
+            "objName": "Ops.Html.Utils.LoadingIndicator"
+        },
+        {
+            "id": "9kvstixiz",
+            "uiAttribs": {},
+            "portsIn": [
+                {
+                    "name": "Scale index",
+                    "value": 1
+                },
+                {
+                    "name": "Scale",
+                    "value": "Fit"
+                },
+                {
+                    "name": "Flip Y",
+                    "value": 0
+                },
+                {
+                    "name": "Flip X",
+                    "value": 0
+                }
+            ],
+            "objName": "Ops.Gl.Meshes.FullscreenRectangle_v2"
+        },
+        {
+            "id": "f9lknxl5d",
+            "uiAttribs": {},
+            "portsIn": [
+                {
+                    "name": "r",
+                    "value": 0.9516666666666667
+                },
+                {
+                    "name": "g",
+                    "value": 0.9516666666666667
+                },
+                {
+                    "name": "b",
+                    "value": 0.9516666666666667
+                },
+                {
+                    "name": "colorizeTexture",
+                    "value": 0
+                },
+                {
+                    "name": "Vertex Colors",
+                    "value": 0
+                },
+                {
+                    "name": "Alpha Mask Source index",
+                    "value": 0
+                },
+                {
+                    "name": "Alpha Mask Source",
+                    "value": "Luminance"
+                },
+                {
+                    "name": "Opacity TexCoords Transform",
+                    "value": 0
+                },
+                {
+                    "name": "Discard Transparent Pixels",
+                    "value": 0
+                },
+                {
+                    "name": "diffuseRepeatX",
+                    "value": 1
+                },
+                {
+                    "name": "diffuseRepeatY",
+                    "value": 1
+                },
+                {
+                    "name": "Tex Offset X",
+                    "value": 0
+                },
+                {
+                    "name": "Tex Offset Y",
+                    "value": 0
+                },
+                {
+                    "name": "Crop TexCoords",
+                    "value": 0
+                },
+                {
+                    "name": "billboard",
+                    "value": 0
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "trigger",
+                    "links": [
+                        {
+                            "portIn": "render",
+                            "portOut": "trigger",
+                            "objIn": "9kvstixiz",
+                            "objOut": "f9lknxl5d"
+                        }
+                    ]
+                }
+            ],
+            "objName": "Ops.Gl.Shader.BasicMaterial_v3"
+        },
+        {
+            "id": "snoi7qa0a",
+            "uiAttribs": {},
+            "portsIn": [
+                {
+                    "name": "Pass Through",
+                    "value": 1
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "Trigger out",
+                    "links": [
+                        {
+                            "portIn": "render",
+                            "portOut": "Trigger out",
+                            "objIn": "f9lknxl5d",
+                            "objOut": "snoi7qa0a"
+                        },
+                        {
+                            "portIn": "exe",
+                            "portOut": "Trigger out",
+                            "objIn": "j5lrgu01k",
+                            "objOut": "snoi7qa0a"
+                        }
+                    ]
+                }
+            ],
+            "objName": "Ops.Trigger.GateTrigger"
+        },
+        {
+            "id": "jjtcf5xhe",
+            "uiAttribs": {},
+            "portsOut": [
+                {
+                    "name": "Result",
+                    "links": [
+                        {
+                            "portIn": "Visible",
+                            "portOut": "Result",
+                            "objIn": "ca85vt4vm",
+                            "objOut": "jjtcf5xhe"
+                        },
+                        {
+                            "portIn": "bool",
+                            "portOut": "Result",
+                            "objIn": "j5lrgu01k",
+                            "objOut": "jjtcf5xhe"
+                        },
+                        {
+                            "portIn": "Boolean",
+                            "portOut": "Result",
+                            "objIn": "uv05tgzbu",
+                            "objOut": "jjtcf5xhe"
+                        }
+                    ]
+                }
+            ],
+            "objName": "Ops.Boolean.BoolByTrigger"
+        },
+        {
+            "id": "7zwdbo5ol",
+            "uiAttribs": {},
+            "portsOut": [
+                {
+                    "name": "Next",
+                    "links": [
+                        {
+                            "portIn": "True",
+                            "portOut": "Next",
+                            "objIn": "jjtcf5xhe",
+                            "objOut": "7zwdbo5ol"
+                        }
+                    ]
+                },
+                {
+                    "name": "Was Triggered",
+                    "value": 1
+                }
+            ],
+            "objName": "Ops.Trigger.TriggerOnce"
+        },
+        {
+            "id": "vxr3otkkk",
+            "uiAttribs": {},
+            "portsOut": [
+                {
+                    "name": "Output",
+                    "multiPortNum": 3
+                },
+                {
+                    "name": "Output_0",
+                    "links": [
+                        {
+                            "portIn": "Exec",
+                            "portOut": "Output_0",
+                            "objIn": "7zwdbo5ol",
+                            "objOut": "vxr3otkkk"
+                        }
+                    ]
+                },
+                {
+                    "name": "Output_1",
+                    "links": [
+                        {
+                            "portIn": "Execute",
+                            "portOut": "Output_1",
+                            "objIn": "2cfv6s3m9",
+                            "objOut": "vxr3otkkk"
+                        }
+                    ]
+                },
+                {
+                    "name": "Output_2",
+                    "title": "add port",
+                    "links": [
+                        {
+                            "portIn": "Execute",
+                            "portOut": "Output_2",
+                            "objIn": "snoi7qa0a",
+                            "objOut": "vxr3otkkk"
+                        }
+                    ]
+                }
+            ],
+            "objName": "Ops.Trigger.SequenceMultiPort"
+        },
+        {
+            "id": "2cfv6s3m9",
+            "uiAttribs": {},
+            "portsOut": [
+                {
+                    "name": "Trigger out",
+                    "links": [
+                        {
+                            "portIn": "render",
+                            "portOut": "Trigger out",
+                            "objIn": "e3946w5fi",
+                            "objOut": "2cfv6s3m9"
+                        }
+                    ]
+                }
+            ],
+            "objName": "Ops.Trigger.GateTrigger"
+        },
+        {
+            "id": "uv05tgzbu",
+            "uiAttribs": {},
+            "portsOut": [
+                {
+                    "name": "Result",
+                    "links": [
+                        {
+                            "portIn": "Pass Through",
+                            "portOut": "Result",
+                            "objIn": "2cfv6s3m9",
+                            "objOut": "uv05tgzbu"
+                        }
+                    ]
+                }
+            ],
+            "objName": "Ops.Boolean.Not"
+        },
+        {
+            "id": "j5lrgu01k",
+            "uiAttribs": {},
+            "portsIn": [
+                {
+                    "name": "easing index",
+                    "value": 9
+                },
+                {
+                    "name": "easing",
+                    "value": "Expo In Out"
+                },
+                {
+                    "name": "duration",
+                    "value": 3
+                },
+                {
+                    "name": "Direction index",
+                    "value": 2
+                },
+                {
+                    "name": "Direction",
+                    "value": "Only False"
+                },
+                {
+                    "name": "value false",
+                    "value": 0
+                },
+                {
+                    "name": "value true",
+                    "value": 1
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "value",
+                    "links": [
+                        {
+                            "portIn": "a",
+                            "portOut": "value",
+                            "objIn": "f9lknxl5d",
+                            "objOut": "j5lrgu01k"
+                        }
+                    ]
+                },
+                {
+                    "name": "finished",
+                    "value": 1
+                }
+            ],
+            "objName": "Ops.Anim.BoolAnim"
+        },
+        {
+            "id": "wjevfffko",
+            "uiAttribs": {},
+            "portsIn": [
+                {
+                    "name": "delay",
+                    "value": 2
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "next",
+                    "links": [
+                        {
+                            "portIn": "false",
+                            "portOut": "next",
+                            "objIn": "jjtcf5xhe",
+                            "objOut": "wjevfffko"
+                        }
+                    ]
+                },
+                {
+                    "name": "Delaying",
+                    "value": false
+                }
+            ],
+            "objName": "Ops.Trigger.DelayedTrigger"
+        },
+        {
+            "id": "0hb37gqt4",
+            "uiAttribs": {},
+            "portsIn": [
+                {
+                    "name": "file",
+                    "value": "assets/MajorMonoDisplay-Regular.ttf",
+                    "display": "file"
+                },
+                {
+                    "name": "family",
+                    "value": "Major"
+                },
+                {
+                    "name": "Active",
+                    "value": 1
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "Loaded",
+                    "value": 1
+                }
+            ],
+            "objName": "Ops.Html.FontFile_v2"
+        },
+        {
+            "id": "j0iexe11w",
+            "uiAttribs": {},
+            "portsIn": [
+                {
+                    "name": "Text",
+                    "value": "MaKE WORD"
+                },
+                {
+                    "name": "Scale Text",
+                    "value": 1
+                },
+                {
+                    "name": "Scale",
+                    "value": 1,
+                    "title": "Line Scale"
+                },
+                {
+                    "name": "Font",
+                    "value": "Major"
+                },
+                {
+                    "name": "align index",
+                    "value": 1
+                },
+                {
+                    "name": "align",
+                    "value": "center"
+                },
+                {
+                    "name": "vertical align index",
+                    "value": 1
+                },
+                {
+                    "name": "vertical align",
+                    "value": "Middle"
+                },
+                {
+                    "name": "Line Height",
+                    "value": 1
+                },
+                {
+                    "name": "Letter Spacing",
+                    "value": 0.18
+                },
+                {
+                    "name": "filter index",
+                    "value": 2
+                },
+                {
+                    "name": "filter",
+                    "value": "mipmap"
+                },
+                {
+                    "name": "Anisotropic index",
+                    "value": 0
+                },
+                {
+                    "name": "Anisotropic",
+                    "value": 0
+                },
+                {
+                    "name": "r",
+                    "value": 0.1383333333333333
+                },
+                {
+                    "name": "g",
+                    "value": 0.1383333333333333
+                },
+                {
+                    "name": "b",
+                    "value": 0.1383333333333333
+                },
+                {
+                    "name": "a",
+                    "value": 0.786
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "Total Lines",
+                    "value": 1
+                },
+                {
+                    "name": "Width",
+                    "value": 3.2785715198199994
+                },
+                {
+                    "name": "Font Available",
+                    "value": 1
+                }
+            ],
+            "objName": "Ops.Gl.Meshes.TextMesh_v2"
+        },
+        {
+            "id": "2spo4t96x",
+            "uiAttribs": {},
+            "portsIn": [
+                {
+                    "name": "posX",
+                    "value": 2.12
+                },
+                {
+                    "name": "posY",
+                    "value": 1.02
+                },
+                {
+                    "name": "posZ",
+                    "value": 0
+                },
+                {
+                    "name": "scale",
+                    "value": 0.12
+                },
+                {
+                    "name": "rotX",
+                    "value": 0
+                },
+                {
+                    "name": "rotY",
+                    "value": 0
+                },
+                {
+                    "name": "rotZ",
+                    "value": 0
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "trigger",
+                    "links": [
+                        {
+                            "portIn": "Render",
+                            "portOut": "trigger",
+                            "objIn": "j0iexe11w",
+                            "objOut": "2spo4t96x"
+                        }
+                    ]
+                }
+            ],
+            "objName": "Ops.Gl.Matrix.Transform"
         }
     ],
     "export": {
-        "time": "2025-05-09 19:38",
+        "time": "2025-05-09 20:51",
         "service": "github",
-        "exportNumber": 4
+        "exportNumber": 5
     }
 };
 if(!CABLES.exportedPatch){CABLES.exportedPatch=CABLES.exportedPatches['hORckJ']}
@@ -33407,6 +33965,7 @@ Ops.Extension=Ops.Extension || {};
 Ops.Gl.Matrix=Ops.Gl.Matrix || {};
 Ops.Gl.Meshes=Ops.Gl.Meshes || {};
 Ops.Gl.Shader=Ops.Gl.Shader || {};
+Ops.Html.Utils=Ops.Html.Utils || {};
 Ops.Gl.Textures=Ops.Gl.Textures || {};
 Ops.Math.Compare=Ops.Math.Compare || {};
 Ops.Html.Elements=Ops.Html.Elements || {};
@@ -41981,7 +42540,8 @@ const voices =
     "zh-yue (Cantonese Chinese, Provisional)"
 ];
 
-const enPath = "en.json";
+//const enPath = "https://sandbox.cables.gl" + op.patch.getFilePath(op.patch.getAssetPath() + "en.json");
+const enPath = op.patch.getFilePath(op.patch.getAssetPath() + "en.json");
 
 const variants =
 [
@@ -42250,6 +42810,862 @@ function update()
 };
 
 CABLES.OPS["89ea7e9c-0dfb-4e1e-8e61-4e79112ee533"]={f:Ops.Number.DelayNumberSimple,objName:"Ops.Number.DelayNumberSimple"};
+
+
+
+
+// **************************************************************
+// 
+// Ops.Html.Utils.LoadingIndicator
+// 
+// **************************************************************
+
+Ops.Html.Utils.LoadingIndicator= class extends CABLES.Op 
+{
+constructor()
+{
+super(...arguments);
+const op=this;
+const attachments=op.attachments={"css_ellipsis_css":".lds-ellipsis {\n\n}\n.lds-ellipsis div {\n  position: absolute;\n  /*top: 33px;*/\n  margin-top:-12px;\n  margin-left:-13px;\n  width: 13px;\n  height: 13px;\n  border-radius: 50%;\n  background: #fff;\n  animation-timing-function: cubic-bezier(0, 1, 1, 0);\n}\n.lds-ellipsis div:nth-child(1) {\n  left: 8px;\n  animation: lds-ellipsis1 0.6s infinite;\n}\n.lds-ellipsis div:nth-child(2) {\n  left: 8px;\n  animation: lds-ellipsis2 0.6s infinite;\n}\n.lds-ellipsis div:nth-child(3) {\n  left: 32px;\n  animation: lds-ellipsis2 0.6s infinite;\n}\n.lds-ellipsis div:nth-child(4) {\n  left: 56px;\n  animation: lds-ellipsis3 0.6s infinite;\n}\n@keyframes lds-ellipsis1 {\n  0% {\n    transform: scale(0);\n  }\n  100% {\n    transform: scale(1);\n  }\n}\n@keyframes lds-ellipsis3 {\n  0% {\n    transform: scale(1);\n  }\n  100% {\n    transform: scale(0);\n  }\n}\n@keyframes lds-ellipsis2 {\n  0% {\n    transform: translate(0, 0);\n  }\n  100% {\n    transform: translate(24px, 0);\n  }\n}\n","css_ring_css":".lds-ring {\n}\n.lds-ring div {\n  box-sizing: border-box;\n  display: block;\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  margin: 0;\n  border: 3px solid #fff;\n  border-radius: 50%;\n  animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;\n  border-color: #fff transparent transparent transparent;\n}\n.lds-ring div:nth-child(1) {\n  animation-delay: -0.45s;\n}\n.lds-ring div:nth-child(2) {\n  animation-delay: -0.3s;\n}\n.lds-ring div:nth-child(3) {\n  animation-delay: -0.15s;\n}\n@keyframes lds-ring {\n  0% {\n    transform: rotate(0deg);\n  }\n  100% {\n    transform: rotate(360deg);\n  }\n}\n","css_spinner_css":"._cables_spinner {\n  /*width: 40px;*/\n  /*height: 40px;*/\n  /*margin: 100px auto;*/\n  background-color: #777;\n\n  border-radius: 100%;\n  -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;\n  animation: sk-scaleout 1.0s infinite ease-in-out;\n}\n\n@-webkit-keyframes sk-scaleout {\n  0% { -webkit-transform: scale(0) }\n  100% {\n    -webkit-transform: scale(1.0);\n    opacity: 0;\n  }\n}\n\n@keyframes sk-scaleout {\n  0% {\n    -webkit-transform: scale(0);\n    transform: scale(0);\n  } 100% {\n    -webkit-transform: scale(1.0);\n    transform: scale(1.0);\n    opacity: 0;\n  }\n}",};
+const
+    inVisible = op.inBool("Visible", true),
+    inStyle = op.inSwitch("Style", ["Spinner", "Ring", "Ellipsis"], "Ring");
+
+const div = document.createElement("div");
+div.dataset.op = op.id;
+const canvas = op.patch.cgl.canvas.parentElement;
+
+inStyle.onChange = updateStyle;
+
+div.appendChild(document.createElement("div"));
+div.appendChild(document.createElement("div"));
+div.appendChild(document.createElement("div"));
+
+const size = 50;
+
+div.style.width = size + "px";
+div.style.height = size + "px";
+div.style.top = "50%";
+div.style.left = "50%";
+div.style["pointer-events"] = "none";
+
+div.style["margin-left"] = "-" + size / 2 + "px";
+div.style["margin-top"] = "-" + size / 2 + "px";
+
+div.style.position = "absolute";
+div.style["z-index"] = "9999999";
+
+inVisible.onChange = updateVisible;
+
+let eleId = "css_loadingicon_" + CABLES.uuid();
+
+const styleEle = document.createElement("style");
+styleEle.type = "text/css";
+styleEle.id = eleId;
+
+let head = document.getElementsByTagName("body")[0];
+head.appendChild(styleEle);
+
+op.onDelete = () =>
+{
+    remove();
+    if (styleEle)styleEle.remove();
+};
+
+canvas.appendChild(div);
+updateStyle();
+
+function updateStyle()
+{
+    const st = inStyle.get();
+    if (st == "Spinner")
+    {
+        div.classList.add("_cables_spinner");
+        styleEle.textContent = attachments.css_spinner_css;
+    }
+    else div.classList.remove("_cables_spinner");
+
+    if (st == "Ring")
+    {
+        div.classList.add("lds-ring");
+        styleEle.textContent = attachments.css_ring_css;
+    }
+    else div.classList.remove("lds-ring");
+
+    if (st == "Ellipsis")
+    {
+        div.classList.add("lds-ellipsis");
+        styleEle.textContent = attachments.css_ellipsis_css;
+    }
+    else div.classList.remove("lds-ellipsis");
+}
+
+function remove()
+{
+    div.remove();
+}
+
+function updateVisible()
+{
+    // remove();
+    // if (inVisible.get()) canvas.appendChild(div);
+
+    // div.style.display = inVisible.get() ? "block" : "none";
+    div.style.opacity = inVisible.get() ? 1 : 0;
+}
+
+}
+};
+
+CABLES.OPS["e102834c-6dcf-459c-9e22-44ebccfc0d3b"]={f:Ops.Html.Utils.LoadingIndicator,objName:"Ops.Html.Utils.LoadingIndicator"};
+
+
+
+
+// **************************************************************
+// 
+// Ops.Gl.Meshes.FullscreenRectangle_v2
+// 
+// **************************************************************
+
+Ops.Gl.Meshes.FullscreenRectangle_v2= class extends CABLES.Op 
+{
+constructor()
+{
+super(...arguments);
+const op=this;
+const attachments=op.attachments={"shader_frag":"UNI sampler2D tex;\nIN vec2 texCoord;\n\nvoid main()\n{\n    outColor= texture(tex,texCoord);\n}\n\n","shader_vert":"{{MODULES_HEAD}}\n\nIN vec3 vPosition;\nUNI mat4 projMatrix;\nUNI mat4 mvMatrix;\n\nOUT vec2 texCoord;\nIN vec2 attrTexCoord;\n\nvoid main()\n{\n   vec4 pos=vec4(vPosition,  1.0);\n\n   texCoord=vec2(attrTexCoord.x,(1.0-attrTexCoord.y));\n\n   gl_Position = projMatrix * mvMatrix * pos;\n}\n",};
+const
+    render = op.inTrigger("render"),
+    inScale = op.inSwitch("Scale", ["Stretch", "Fit"], "Fit"),
+    flipY = op.inValueBool("Flip Y"),
+    flipX = op.inValueBool("Flip X"),
+    inTexture = op.inTexture("Texture"),
+    trigger = op.outTrigger("trigger");
+
+const cgl = op.patch.cgl;
+let mesh = null;
+let geom = new CGL.Geometry("fullscreen rectangle");
+let x = 0, y = 0, w = 0, h = 0;
+
+op.toWorkShouldNotBeChild("Ops.Gl.TextureEffects.ImageCompose", CABLES.OP_PORT_TYPE_FUNCTION);
+op.toWorkPortsNeedToBeLinked(render);
+
+flipX.onChange = rebuildFlip;
+flipY.onChange = rebuildFlip;
+render.onTriggered = doRender;
+inTexture.onLinkChanged = updateUi;
+inScale.onChange = updateScale;
+
+const shader = new CGL.Shader(cgl, "fullscreenrectangle", this);
+shader.setModules(["MODULE_VERTEX_POSITION", "MODULE_COLOR", "MODULE_BEGIN_FRAG"]);
+
+shader.setSource(attachments.shader_vert, attachments.shader_frag);
+shader.fullscreenRectUniform = new CGL.Uniform(shader, "t", "tex", 0);
+shader.aspectUni = new CGL.Uniform(shader, "f", "aspectTex", 0);
+
+let useShader = false;
+let updateShaderLater = true;
+let fitImageAspect = false;
+
+updateUi();
+updateScale();
+
+inTexture.onChange = function ()
+{
+    updateShaderLater = true;
+};
+
+function updateUi()
+{
+    if (!CABLES.UI) return;
+    flipY.setUiAttribs({ "greyout": !inTexture.isLinked() });
+    flipX.setUiAttribs({ "greyout": !inTexture.isLinked() });
+    inScale.setUiAttribs({ "greyout": !inTexture.isLinked() });
+}
+
+function updateShader()
+{
+    let tex = inTexture.get();
+    if (tex) useShader = true;
+    else useShader = false;
+}
+
+op.preRender = function ()
+{
+    updateShader();
+    shader.bind();
+    if (mesh)mesh.render(shader);
+    doRender();
+};
+
+function updateScale()
+{
+    fitImageAspect = inScale.get() == "Fit";
+}
+
+function doRender()
+{
+    if (cgl.viewPort[2] != w || cgl.viewPort[3] != h || !mesh) rebuild();
+
+    if (updateShaderLater) updateShader();
+
+    cgl.pushPMatrix();
+    mat4.identity(cgl.pMatrix);
+    mat4.ortho(cgl.pMatrix, 0, w, h, 0, -10.0, 1000);
+
+    cgl.pushModelMatrix();
+    mat4.identity(cgl.mMatrix);
+
+    cgl.pushViewMatrix();
+    mat4.identity(cgl.vMatrix);
+
+    if (fitImageAspect && inTexture.get())
+    {
+        const rat = inTexture.get().width / inTexture.get().height;
+
+        let _h = h;
+        let _w = h * rat;
+
+        if (_w > w)
+        {
+            _h = w * 1 / rat;
+            _w = w;
+        }
+
+        cgl.pushViewPort((w - _w) / 2, (h - _h) / 2, _w, _h);
+    }
+
+    if (useShader)
+    {
+        if (inTexture.get()) cgl.setTexture(0, inTexture.get().tex);
+        mesh.render(shader);
+    }
+    else
+    {
+        mesh.render(cgl.getShader());
+    }
+
+    cgl.gl.clear(cgl.gl.DEPTH_BUFFER_BIT);
+
+    cgl.popPMatrix();
+    cgl.popModelMatrix();
+    cgl.popViewMatrix();
+
+    if (fitImageAspect && inTexture.get()) cgl.popViewPort();
+
+    trigger.trigger();
+}
+
+function rebuildFlip()
+{
+    mesh = null;
+}
+
+function rebuild()
+{
+    if (cgl.viewPort[2] == w && cgl.viewPort[3] == h && mesh) return;
+
+    let xx = 0, xy = 0;
+
+    w = cgl.viewPort[2];
+    h = cgl.viewPort[3];
+
+    geom.vertices = new Float32Array([
+        xx + w, xy + h, 0.0,
+        xx, xy + h, 0.0,
+        xx + w, xy, 0.0,
+        xx, xy, 0.0
+    ]);
+
+    let tc = null;
+
+    if (flipY.get())
+        tc = new Float32Array([
+            1.0, 0.0,
+            0.0, 0.0,
+            1.0, 1.0,
+            0.0, 1.0
+        ]);
+    else
+        tc = new Float32Array([
+            1.0, 1.0,
+            0.0, 1.0,
+            1.0, 0.0,
+            0.0, 0.0
+        ]);
+
+    if (flipX.get())
+    {
+        tc[0] = 0.0;
+        tc[2] = 1.0;
+        tc[4] = 0.0;
+        tc[6] = 1.0;
+    }
+
+    geom.setTexCoords(tc);
+
+    geom.verticesIndices = new Uint16Array([
+        2, 1, 0,
+        3, 1, 2
+    ]);
+
+    geom.vertexNormals = new Float32Array([
+        0, 0, 1,
+        0, 0, 1,
+        0, 0, 1,
+        0, 0, 1,
+    ]);
+    geom.tangents = new Float32Array([
+        -1, 0, 0,
+        -1, 0, 0,
+        -1, 0, 0,
+        -1, 0, 0]);
+    geom.biTangents == new Float32Array([
+        0, -1, 0,
+        0, -1, 0,
+        0, -1, 0,
+        0, -1, 0]);
+
+    if (!mesh) mesh = new CGL.Mesh(cgl, geom);
+    else mesh.setGeom(geom);
+}
+
+}
+};
+
+CABLES.OPS["fb70721a-eac2-4ff5-a5a2-5c59e2393972"]={f:Ops.Gl.Meshes.FullscreenRectangle_v2,objName:"Ops.Gl.Meshes.FullscreenRectangle_v2"};
+
+
+
+
+// **************************************************************
+// 
+// Ops.Boolean.Not
+// 
+// **************************************************************
+
+Ops.Boolean.Not= class extends CABLES.Op 
+{
+constructor()
+{
+super(...arguments);
+const op=this;
+const attachments=op.attachments={};
+const
+    bool = op.inValueBool("Boolean"),
+    outbool = op.outBoolNum("Result");
+
+bool.changeAlways = true;
+
+bool.onChange = function ()
+{
+    outbool.set((!bool.get()));
+};
+
+}
+};
+
+CABLES.OPS["6d123c9f-7485-4fd9-a5c2-76e59dcbeb34"]={f:Ops.Boolean.Not,objName:"Ops.Boolean.Not"};
+
+
+
+
+// **************************************************************
+// 
+// Ops.Gl.Meshes.TextMesh_v2
+// 
+// **************************************************************
+
+Ops.Gl.Meshes.TextMesh_v2= class extends CABLES.Op 
+{
+constructor()
+{
+super(...arguments);
+const op=this;
+const attachments=op.attachments={"textmesh_frag":"{{MODULES_HEAD}}\n\n#define INSTANCING\n\nUNI sampler2D tex;\n#ifdef DO_MULTEX\n    UNI sampler2D texMul;\n#endif\n#ifdef DO_MULTEX_MASK\n    UNI sampler2D texMulMask;\n#endif\nIN vec2 texCoord;\nIN vec2 texPos;\nUNI float r;\nUNI float g;\nUNI float b;\nUNI float a;\n\nflat IN float frag_instIndex;\n\nvoid main()\n{\n    {{MODULE_BEGIN_FRAG}}\n\n    vec4 col=texture(tex,texCoord);\n    col.a=col.r;\n    col.r*=r;\n    col.g*=g;\n    col.b*=b;\n    col*=a;\n\n    if(col.a==0.0)discard;\n\n    #ifdef DO_MULTEX\n        col*=texture(texMul,texPos);\n    #endif\n\n    #ifdef DO_MULTEX_MASK\n        col*=texture(texMulMask,texPos).r;\n    #endif\n\n    {{MODULE_COLOR}}\n\n    outColor=col;\n}","textmesh_vert":"{{MODULES_HEAD}}\n\nUNI sampler2D tex;\nUNI mat4 projMatrix;\nUNI mat4 modelMatrix;\nUNI mat4 viewMatrix;\nUNI float scale;\nIN vec3 vPosition;\nIN vec2 attrTexCoord;\nIN mat4 instMat;\nIN vec2 attrTexOffsets;\nIN vec2 attrTexSize;\nIN vec2 attrTexPos;\nIN float attrVertIndex;\nIN float instanceIndex;\nflat OUT float frag_instIndex;\n\nOUT vec2 texPos;\n\nOUT vec2 texCoord;\nOUT vec4 modelPos;\n\nvoid main()\n{\n\n    texCoord=(attrTexCoord*(attrTexSize)) + attrTexOffsets;\n    mat4 instMVMat=instMat;\n    instMVMat[3][0]*=scale;\n\n    texPos=attrTexPos;\n\n    vec4 pos=vec4( vPosition.x*(attrTexSize.x/attrTexSize.y)*scale,vPosition.y*scale,vPosition.z*scale, 1. );\n\n    mat4 mvMatrix=viewMatrix * modelMatrix * instMVMat;\n    frag_instIndex=instanceIndex;\n\n    {{MODULE_VERTEX_POSITION}}\n\n    gl_Position = projMatrix * mvMatrix * pos;\n}\n\n",};
+const
+    render = op.inTrigger("Render"),
+    str = op.inString("Text", "cables"),
+    scaleText = op.inFloat("Scale Text", 1),
+    scale = op.inValueFloat("Scale", 1),
+    inFont = op.inString("Font", "Arial"),
+    align = op.inValueSelect("align", ["left", "center", "right"], "center"),
+    valign = op.inValueSelect("vertical align", ["Top", "Middle", "Bottom"], "Middle"),
+    lineHeight = op.inValueFloat("Line Height", 1),
+    letterSpace = op.inValueFloat("Letter Spacing"),
+
+    tfilter = op.inSwitch("filter", ["nearest", "linear", "mipmap"], "mipmap"),
+    aniso = op.inSwitch("Anisotropic", [0, 1, 2, 4, 8, 16], 0),
+
+    inMulTex = op.inTexture("Texture Color"),
+    inMulTexMask = op.inTexture("Texture Mask"),
+    next = op.outTrigger("Next"),
+    textureOut = op.outTexture("texture"),
+    outLines = op.outNumber("Total Lines", 0),
+    outWidth = op.outNumber("Width", 0),
+    loaded = op.outBoolNum("Font Available", 0);
+
+const cgl = op.patch.cgl;
+const vScale = vec3.create();
+
+vec3.set(vScale, 1, 1, 1);
+
+op.toWorkPortsNeedToBeLinked(render);
+
+op.setPortGroup("Masking", [inMulTex, inMulTexMask]);
+
+scale.setUiAttribs({ "title": "Line Scale" });
+
+textureOut.setUiAttribs({ "hidePort": true });
+
+const textureSize = 1024;
+let fontLoaded = false;
+let needUpdate = true;
+
+align.onChange =
+    str.onChange =
+    lineHeight.onChange = generateMeshLater;
+
+function generateMeshLater()
+{
+    needUpdate = true;
+}
+
+let canvasid = null;
+CABLES.OpTextureMeshCanvas = {};
+let valignMode = 0;
+
+const geom = null;
+let mesh = null;
+
+let createMesh = true;
+let createTexture = true;
+
+op.onDelete = function () { if (mesh)mesh.dispose(); };
+
+scaleText.onChange = () =>
+{
+    vec3.set(vScale, scaleText.get(), scaleText.get(), scaleText.get());
+};
+
+aniso.onChange =
+tfilter.onChange = () =>
+{
+    getFont().texture = null;
+    createTexture = true;
+};
+
+inMulTexMask.onChange =
+inMulTex.onChange = function ()
+{
+    shader.toggleDefine("DO_MULTEX", inMulTex.get());
+    shader.toggleDefine("DO_MULTEX_MASK", inMulTexMask.get());
+};
+
+textureOut.setRef(null);
+inFont.onChange = function ()
+{
+    createTexture = true;
+    createMesh = true;
+    checkFont();
+};
+
+op.patch.on("fontLoaded", (fontName) =>
+{
+    if (fontName == inFont.get())
+    {
+        createTexture = true;
+        createMesh = true;
+    }
+});
+
+function checkFont()
+{
+    const oldFontLoaded = fontLoaded;
+    try
+    {
+        fontLoaded = document.fonts.check("20px \"" + inFont.get() + "\"");
+    }
+    catch (ex)
+    {
+        op.logError(ex);
+    }
+
+    if (!oldFontLoaded && fontLoaded)
+    {
+        loaded.set(true);
+        createTexture = true;
+        createMesh = true;
+    }
+
+    if (!fontLoaded) setTimeout(checkFont, 250);
+}
+
+valign.onChange = function ()
+{
+    if (valign.get() == "Middle")valignMode = 0;
+    else if (valign.get() == "Top")valignMode = 1;
+    else if (valign.get() == "Bottom")valignMode = 2;
+};
+
+function getFont()
+{
+    canvasid = "" + inFont.get();
+    if (CABLES.OpTextureMeshCanvas.hasOwnProperty(canvasid))
+        return CABLES.OpTextureMeshCanvas[canvasid];
+
+    const fontImage = document.createElement("canvas");
+    fontImage.dataset.font = inFont.get();
+    fontImage.id = "texturetext_" + CABLES.generateUUID();
+    fontImage.style.display = "none";
+    const body = document.getElementsByTagName("body")[0];
+    body.appendChild(fontImage);
+    const _ctx = fontImage.getContext("2d");
+    CABLES.OpTextureMeshCanvas[canvasid] =
+        {
+            "ctx": _ctx,
+            "canvas": fontImage,
+            "chars": {},
+            "characters": "",
+            "fontSize": 320
+        };
+    return CABLES.OpTextureMeshCanvas[canvasid];
+}
+
+op.onDelete = function ()
+{
+    if (canvasid && CABLES.OpTextureMeshCanvas[canvasid])
+        CABLES.OpTextureMeshCanvas[canvasid].canvas.remove();
+};
+
+const shader = new CGL.Shader(cgl, "TextMesh", this);
+shader.setSource(attachments.textmesh_vert, attachments.textmesh_frag);
+const uniTex = new CGL.Uniform(shader, "t", "tex", 0);
+const uniTexMul = new CGL.Uniform(shader, "t", "texMul", 1);
+const uniTexMulMask = new CGL.Uniform(shader, "t", "texMulMask", 2);
+const uniScale = new CGL.Uniform(shader, "f", "scale", scale);
+
+const
+    r = op.inValueSlider("r", 1),
+    g = op.inValueSlider("g", 1),
+    b = op.inValueSlider("b", 1),
+    a = op.inValueSlider("a", 1),
+    runiform = new CGL.Uniform(shader, "f", "r", r),
+    guniform = new CGL.Uniform(shader, "f", "g", g),
+    buniform = new CGL.Uniform(shader, "f", "b", b),
+    auniform = new CGL.Uniform(shader, "f", "a", a);
+r.setUiAttribs({ "colorPick": true });
+
+op.setPortGroup("Display", [scale, inFont]);
+op.setPortGroup("Alignment", [align, valign]);
+op.setPortGroup("Color", [r, g, b, a]);
+
+let height = 0;
+const vec = vec3.create();
+let lastTextureChange = -1;
+let disabled = false;
+
+render.onTriggered = function ()
+{
+    if (needUpdate)
+    {
+        generateMesh();
+        needUpdate = false;
+    }
+    const font = getFont();
+    if (font.lastChange != lastTextureChange)
+    {
+        createMesh = true;
+        lastTextureChange = font.lastChange;
+    }
+
+    if (createTexture) generateTexture();
+    if (createMesh) generateMesh();
+
+    if (mesh && mesh.numInstances > 0)
+    {
+        cgl.pushBlendMode(CGL.BLEND_NORMAL, true);
+        cgl.pushShader(shader);
+        cgl.setTexture(0, textureOut.get().tex);
+
+        const mulTex = inMulTex.get();
+        if (mulTex)cgl.setTexture(1, mulTex.tex);
+
+        const mulTexMask = inMulTexMask.get();
+        if (mulTexMask)cgl.setTexture(2, mulTexMask.tex);
+
+        if (valignMode === 2) vec3.set(vec, 0, height, 0);
+        else if (valignMode === 1) vec3.set(vec, 0, 0, 0);
+        else if (valignMode === 0) vec3.set(vec, 0, height / 2, 0);
+
+        vec[1] -= lineHeight.get();
+        cgl.pushModelMatrix();
+        mat4.translate(cgl.mMatrix, cgl.mMatrix, vec);
+        mat4.scale(cgl.mMatrix, cgl.mMatrix, vScale);
+
+        if (!disabled)mesh.render(cgl.getShader());
+
+        cgl.popModelMatrix();
+
+        cgl.setTexture(0, null);
+        cgl.popShader();
+        cgl.popBlendMode();
+    }
+
+    next.trigger();
+};
+
+letterSpace.onChange = function ()
+{
+    createMesh = true;
+};
+
+function generateMesh()
+{
+    const theString = String(str.get() + "");
+    if (!textureOut.get()) return;
+
+    const font = getFont();
+    if (!font.geom)
+    {
+        font.geom = new CGL.Geometry("textmesh");
+
+        font.geom.vertices = [
+            1.0, 1.0, 0.0,
+            0.0, 1.0, 0.0,
+            1.0, 0.0, 0.0,
+            0.0, 0.0, 0.0
+        ];
+
+        font.geom.texCoords = new Float32Array([
+            1.0, 1.0,
+            0.0, 1.0,
+            1.0, 0.0,
+            0.0, 0.0
+        ]);
+
+        font.geom.verticesIndices = [
+            0, 1, 2,
+            2, 1, 3
+        ];
+    }
+
+    if (!mesh)mesh = new CGL.Mesh(cgl, font.geom);
+
+    const strings = (theString).split("\n");
+    outLines.set(strings.length);
+
+    const transformations = [];
+    const tcOffsets = [];
+    const tcSize = [];
+    const texPos = [];
+    const m = mat4.create();
+    let charCounter = 0;
+    let maxWidth = 0;
+    createTexture = false;
+
+    for (let s = 0; s < strings.length; s++)
+    {
+        const txt = strings[s];
+        const numChars = txt.length;
+
+        let pos = 0;
+        let offX = 0;
+        let width = 0;
+
+        for (let i = 0; i < numChars; i++)
+        {
+            const chStr = txt.substring(i, i + 1);
+            const char = font.chars[String(chStr)];
+            if (char)
+            {
+                width += (char.texCoordWidth / char.texCoordHeight);
+                width += letterSpace.get();
+            }
+        }
+
+        width -= letterSpace.get();
+
+        height = 0;
+
+        if (align.get() == "left") offX = 0;
+        else if (align.get() == "right") offX = width;
+        else if (align.get() == "center") offX = width / 2;
+
+        height = (s + 1) * lineHeight.get();
+
+        for (let i = 0; i < numChars; i++)
+        {
+            const chStr = txt.substring(i, i + 1);
+            const char = font.chars[String(chStr)];
+
+            if (!char)
+            {
+                createTexture = true;
+                return;
+            }
+            else
+            {
+                texPos.push(pos / width * 0.99 + 0.005, (1.0 - (s / (strings.length - 1))) * 0.99 + 0.005);
+                tcOffsets.push(char.texCoordX, 1 - char.texCoordY - char.texCoordHeight);
+                tcSize.push(char.texCoordWidth, char.texCoordHeight);
+
+                mat4.identity(m);
+                mat4.translate(m, m, [pos - offX, 0 - s * lineHeight.get(), 0]);
+
+                pos += (char.texCoordWidth / char.texCoordHeight) + letterSpace.get();
+                maxWidth = Math.max(maxWidth, pos - offX);
+
+                transformations.push(Array.prototype.slice.call(m));
+
+                charCounter++;
+            }
+        }
+    }
+
+    const transMats = [].concat.apply([], transformations);
+
+    disabled = false;
+    if (transMats.length == 0)disabled = true;
+
+    const n = transMats.length / 16;
+    mesh.setNumInstances(n);
+
+    if (mesh.numInstances == 0)
+    {
+        disabled = true;
+        return;
+    }
+
+    outWidth.set(maxWidth * scale.get());
+    mesh.setAttribute("instMat", new Float32Array(transMats), 16, { "instanced": true });
+    mesh.setAttribute("attrTexOffsets", new Float32Array(tcOffsets), 2, { "instanced": true });
+    mesh.setAttribute("attrTexSize", new Float32Array(tcSize), 2, { "instanced": true });
+    mesh.setAttribute("attrTexPos", new Float32Array(texPos), 2, { "instanced": true });
+
+    createMesh = false;
+
+    if (createTexture) generateTexture();
+}
+
+function printChars(fontSize, simulate)
+{
+    const font = getFont();
+    if (!simulate) font.chars = {};
+
+    const ctx = font.ctx;
+
+    ctx.font = fontSize + "px " + inFont.get();
+    ctx.textAlign = "left";
+
+    let posy = 0;
+    let posx = 0;
+    const lineHeight = fontSize * 1.4;
+    const result =
+        {
+            "fits": true
+        };
+
+    for (let i = 0; i < font.characters.length; i++)
+    {
+        const chStr = String(font.characters.substring(i, i + 1));
+        const chWidth = (ctx.measureText(chStr).width);
+
+        if (posx + chWidth >= textureSize)
+        {
+            posy += lineHeight + 2;
+            posx = 0;
+        }
+
+        if (!simulate)
+        {
+            font.chars[chStr] =
+                {
+                    "str": chStr,
+                    "texCoordX": posx / textureSize,
+                    "texCoordY": posy / textureSize,
+                    "texCoordWidth": chWidth / textureSize,
+                    "texCoordHeight": lineHeight / textureSize,
+                };
+
+            ctx.fillText(chStr, posx, posy + fontSize);
+        }
+
+        posx += chWidth + 12;
+    }
+
+    if (posy > textureSize - lineHeight)
+    {
+        result.fits = false;
+    }
+
+    result.spaceLeft = textureSize - posy;
+
+    return result;
+}
+
+function generateTexture()
+{
+    let filter = CGL.Texture.FILTER_LINEAR;
+    if (tfilter.get() == "nearest") filter = CGL.Texture.FILTER_NEAREST;
+    if (tfilter.get() == "mipmap") filter = CGL.Texture.FILTER_MIPMAP;
+
+    const font = getFont();
+    let string = String(str.get());
+    if (string == null || string == undefined)string = "";
+    for (let i = 0; i < string.length; i++)
+    {
+        const ch = string.substring(i, i + 1);
+        if (font.characters.indexOf(ch) == -1)
+        {
+            font.characters += ch;
+            createTexture = true;
+        }
+    }
+
+    const ctx = font.ctx;
+    font.canvas.width = font.canvas.height = textureSize;
+
+    if (!font.texture)
+        font.texture = CGL.Texture.createFromImage(cgl, font.canvas, {
+            "filter": filter,
+            "anisotropic": parseFloat(aniso.get())
+        });
+
+    font.texture.setSize(textureSize, textureSize);
+
+    ctx.fillStyle = "transparent";
+    ctx.clearRect(0, 0, textureSize, textureSize);
+    ctx.fillStyle = "rgba(255,255,255,255)";
+
+    let fontSize = font.fontSize + 40;
+    let simu = printChars(fontSize, true);
+
+    while (!simu.fits)
+    {
+        fontSize -= 5;
+        simu = printChars(fontSize, true);
+    }
+
+    printChars(fontSize, false);
+
+    ctx.restore();
+
+    font.texture.initTexture(font.canvas, filter);
+    font.texture.unpackAlpha = true;
+    textureOut.setRef(font.texture);
+
+    font.lastChange = CABLES.now();
+
+    createMesh = true;
+    createTexture = false;
+}
+
+}
+};
+
+CABLES.OPS["2390f6b3-2122-412e-8c8d-5c2f574e8bd1"]={f:Ops.Gl.Meshes.TextMesh_v2,objName:"Ops.Gl.Meshes.TextMesh_v2"};
 
 
 
