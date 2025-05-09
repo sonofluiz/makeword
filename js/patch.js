@@ -31921,7 +31921,7 @@ if(!CABLES.exportedPatches) CABLES.exportedPatches={};CABLES.exportedPatches['hO
                 },
                 {
                     "name": "Show Audio Suspended Button",
-                    "value": 1
+                    "value": 0
                 }
             ],
             "portsOut": [
